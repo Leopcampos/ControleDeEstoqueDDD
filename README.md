@@ -14,7 +14,7 @@ Criação dos projetos:
 ******Adicionando os projetos na solução ControleDeEstoqueDDD.sln******
 <br>dotnet sln ControleDeEstoqueDDD.sln add .\ControleDeEstoqueDDD.Domain
 <br>dotnet sln ControleDeEstoqueDDD.sln add .\ControleDeEstoqueDDD.Application\
-<br>dotnet sln ControleDeEstoqueDDD.sln add .\ControleDeEstoqueDDD.Infra.Data\
-<br>dotnet sln ControleDeEstoqueDDD.sln add .\ControleDeEstoqueDDD.Infra.CrossCutting\
-<br>dotnet sln ControleDeEstoqueDDD.sln add .\ControleDeEstoqueDDD.Web\
-<br>dotnet restore
+dotnet sln ControleDeEstoqueDDD.sln add .\ControleDeEstoqueDDD.Infra.Data\
+dotnet sln ControleDeEstoqueDDD.sln add .\ControleDeEstoqueDDD.Infra.CrossCutting\
+dotnet sln ControleDeEstoqueDDD.sln add .\ControleDeEstoqueDDD.Web\
+dotnet restore
