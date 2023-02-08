@@ -2,8 +2,8 @@
 Criação dos projetos:
 
 1 - dotnet new sln -n ControleDeEstoqueDDD
-2 - Criar a pasta src
-3 - Dentro da pasta src
+<br>2 - Criar a pasta src
+<br>3 - Dentro da pasta src
 4 - dotnet new classlib -n ControleDeEstoqueDDD.Domain
 5 - dotnet new classlib -n ControleDeEstoqueDDD.Application
 6 - dotnet new classlib -n ControleDeEstoqueDDD.Infra.Data
