@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeEstoqueDDD.Domain", "ControleDeEstoqueDDD.Domain\ControleDeEstoqueDDD.Domain.csproj", "{FD5EC106-76A6-47B8-A198-B5AC2A988D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeEstoqueDDD.Application", "ControleDeEstoqueDDD.Application\ControleDeEstoqueDDD.Application.csproj", "{6BDCD151-A89B-4B4C-BC2F-DAB6F00D619A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeEstoqueDDD.Infra.CrossCutting", "ControleDeEstoqueDDD.Infra.CrossCutting\ControleDeEstoqueDDD.Infra.CrossCutting.csproj", "{03ED7A47-BE5A-4E83-A2ED-BC93123D30F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeEstoqueDDD.Infra.Data", "ControleDeEstoqueDDD.Infra.Data\ControleDeEstoqueDDD.Infra.Data.csproj", "{ABFEA23C-DBDB-42DE-B45A-AD2D5CB5FC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeEstoqueDDD.Web", "ControleDeEstoqueDDD.Web\ControleDeEstoqueDDD.Web.csproj", "{5215A1A4-8428-4A30-9468-357C5365421E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5EC106-76A6-47B8-A198-B5AC2A988D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5EC106-76A6-47B8-A198-B5AC2A988D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5EC106-76A6-47B8-A198-B5AC2A988D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5EC106-76A6-47B8-A198-B5AC2A988D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDCD151-A89B-4B4C-BC2F-DAB6F00D619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDCD151-A89B-4B4C-BC2F-DAB6F00D619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDCD151-A89B-4B4C-BC2F-DAB6F00D619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDCD151-A89B-4B4C-BC2F-DAB6F00D619A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03ED7A47-BE5A-4E83-A2ED-BC93123D30F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03ED7A47-BE5A-4E83-A2ED-BC93123D30F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03ED7A47-BE5A-4E83-A2ED-BC93123D30F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03ED7A47-BE5A-4E83-A2ED-BC93123D30F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFEA23C-DBDB-42DE-B45A-AD2D5CB5FC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFEA23C-DBDB-42DE-B45A-AD2D5CB5FC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFEA23C-DBDB-42DE-B45A-AD2D5CB5FC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFEA23C-DBDB-42DE-B45A-AD2D5CB5FC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5215A1A4-8428-4A30-9468-357C5365421E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5215A1A4-8428-4A30-9468-357C5365421E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5215A1A4-8428-4A30-9468-357C5365421E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5215A1A4-8428-4A30-9468-357C5365421E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
